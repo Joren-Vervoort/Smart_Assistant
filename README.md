@@ -16,6 +16,7 @@ Your section headers will be used to reference the location of the destination.
 - [How To Use](#how-to-use)
 - [Repo Artitecture](#repo-artitecture)
 - [Next Step](#next-step)
+- [Author Info](#author-info)
 
 ## **Description**
 
@@ -80,6 +81,13 @@ If you run the script and say "Alexa, play Johnny Cash", the smart assistant wil
 
 - Expand the functions of this smart assistant.
 - Add a visual aspect and deploy it
+
+[**↥ Back To The Top**](#table-of-contents)
+
+## **Authors Info**
+
+- Linkedin - [Joren Vervoort](https://www.linkedin.com/in/vervoort-joren/)
+- Github - [Joren Vervoort](https://github.com/Joren-Vervoort)
 
 [**↥ Back To The Top**](#table-of-contents)
 
