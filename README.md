@@ -33,16 +33,58 @@ to be able to use speech recognition
 ### **Technologies**
 <br/>
 
-| Library          | Used to                                        |
-| ---------------- | :----------------------------------------------|
-| numpy            | To handle Numpy arrays                         |
-| pandas           | To store and access info in a DataFrame        |
-| matplotlib       | To plot the data                               |
-| request          | To make request to an API                      |
-| jupyter          | To open Jupyter Notebook                       |
-| plotly           | To plot in (interactive) 3D                    |
-| rasterio         | To open and handle LIDAR files                 |
-| rioxarray        | To convert LIDAR files into arrays             |
+| Library           | Used to                                        |
+| ----------------  | :----------------------------------------------|
+| speech_recognition| To recognize spoken language                   |
+| pyttsx3           | To convert code into speech                    |
+| pywhatkit         | To interact with Youtube, Whatsapp             |
+| datetime          | Used for time and dates                        |
+| wikipedia         | To interact with Wikipedia                     |
+
+IF YOU HAVE ANY PROBLEMS INSTALLING: pyttsx3 - speech_recognition - pyaudio, you can always download the package from this [website](https://www.lfd.uci.edu/~gohlke/pythonlibs/) (website for unofficial libraries for Windows) and copy/paste it to where your libraries are stored.
+
+[**↥ Back To The Top**](#table-of-contents)
+
+## **How To Use**
+
+### **Installation** 
+
+`Python Ver. '3.7'`
+
+1. Open terminal `cmd`
+2. Install the required libraries  `pip install -r requiement.txt`
+3. Run the app.py python script `python main.py`
+
+[**↥ Back To The Top**](#table-of-contents)
+
+---
+
+## **Repo Artitecture**
+```
+Smart_Assistant
+│   README.md                     :explains the project
+│   requirements.txt              :packages to install to run the program
+│   main.py                       :file that contains all the main script for program
+```
+
+[**↥ Back To The Top**](#table-of-contents)
+
+---
+
+## **Result Preview**
+
+If you run the script and say "
+
+[**↥ Back To The Top**](#table-of-contents)
+
+---
+
+## **Next Step**
+
+- Improve the dashboard for more interaction.
+- Improve the cut out of the image.
+- Addition feature, video background removable
+- Further improve the model, training on different dataset.
 
 [**↥ Back To The Top**](#table-of-contents)
 
