@@ -1,6 +1,6 @@
 <h1 align="center"> <strong>Smart_Assistent</strong> </h1>
 
-| ![](Results/3D-house-example-1.png) |
+| ![](Images/smart_assistants.png) |
 |:-:|
 
 - Developer Name : Joren Vervoort
