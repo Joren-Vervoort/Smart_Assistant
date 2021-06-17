@@ -2,7 +2,6 @@
 
 | ![](Results/3D-house-example-1.png) |
 |:-:|
-| Result example |
 
 - Developer Name : Joren Vervoort
 - Level: `Junior Developer`
@@ -73,7 +72,7 @@ Smart_Assistant
 
 ## **Result Preview**
 
-If you run the script and say "
+If you run the script and say "Alexa, play Johnny Cash", the smart assistant will go automatically to Youtube and play the first song based on the search result using the keywords "Johnny Cash".
 
 [**↥ Back To The Top**](#table-of-contents)
 
@@ -81,29 +80,9 @@ If you run the script and say "
 
 ## **Next Step**
 
-- Improve the dashboard for more interaction.
-- Improve the cut out of the image.
-- Addition feature, video background removable
-- Further improve the model, training on different dataset.
+- Expand the functions of this smart assistant.
+- Add a visual aspect and deploy it
 
 [**↥ Back To The Top**](#table-of-contents)
 
-## About the Repository
-
-BEFORE YOU RUN THIS CODE: install the packages: pyttsx3 - speech_recognition - pyaudio
-
-IF pip install does not work for one of the packages, u can always download the package from this website (for Windows)
-
-https://www.lfd.uci.edu/~gohlke/pythonlibs/
-
-### Repository
-
-**README.md**
-
-**main.py**
-  -For now all the python code is in this file. As this project will expand, this might change.
-    
-## Clone/Fork Repository
-  - If you wish to clone/fork this repository, you can just click on the repository, then click the Clone/fork button and follow the instructions.
-  
-### Thank you for reading.
+## **Thank you for reading.**
