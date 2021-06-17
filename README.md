@@ -16,8 +16,6 @@ Your section headers will be used to reference the location of the destination.
 - [How To Use](#how-to-use)
 - [Repo Artitecture](#repo-artitecture)
 - [Next Step](#next-step)
-- [License](#license)
-- [Author Info](#author-info)
 
 ## **Description**
 
